@@ -1,16 +1,27 @@
 ## Hi there 👋
+## I'm Joseph Otieno Oyieko
 
-<!--
-**JoeOtiEcko/JoeOtiEcko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about Coding in General with focus on trading automation (for starters), Python scripting, and tech solutions for everyday problems.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Use
+- 💻 Python, JavaScript
+- 📈 Trading bots & automation (Deriv API, synthetic indices)
+- 🧰 VS Code, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠 Projects I'm Working On
+- 🐍 **TrendBot** – A Python-based trading bot for Deriv's Volatility Index
+- 💡 Learning and testing strategies like trend-following, breakout, scalping, & swinging
+
+## 📚 What I'm Learning
+- Advanced chart analysis (candlestick patterns, support/resistance)
+- Algorithmic trading
+- GitHub Actions for automation
+
+## 🌐 Let's Connect
+- 💼 [LinkedIn](https:/www.linkedin.com/in/joseph-oyieko-8b8093116)
+- 📬 Reach me via [joeotieno993@gmail.com]
+
+---
+
+_Always learning. Always building._
 -->
