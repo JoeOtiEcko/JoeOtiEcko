@@ -24,7 +24,7 @@
 ---
     # Remember, trading involves risks, and there are no guarantees of profit.
     # Always trade responsibly and within your risk tolerance.
-    # This bot is a tool to assist you in your trading journey,
+    # These bots are tools to assist you in your trading journey,
     # but it's important to make informed decisions and continuously improve your trading strategy.
     # Happy coding and trading! 🚀
 _Always learning. Always building._
