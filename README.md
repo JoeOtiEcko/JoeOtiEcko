@@ -1,7 +1,7 @@
 ## Hi there 👋
 ## I'm Joseph Otieno Oyieko
 
-🎯 Passionate about Coding in General with focus on trading automation (for starters), Python scripting, and tech solutions for everyday problems.
+🎯 Passionate about Finance, Art and Coding with focus on trading automation, Python scripting, and Fin/tech solutions for everyday problems.
 
 ## 🔧 Technologies I Use
 - 💻 Python, JavaScript
